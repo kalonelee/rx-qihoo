@@ -1,0 +1,6 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
+	<prescription type="service" class="com.qihoo.util.CommonService" sender="any" />
+	<prescription type="service" class="com.qihoo.util.CommonService2" sender="any" />
+	<prescription type="service" class="com.qihoo.util.QhJobService" sender="any" />
+	<prescription type="service" class="com.qihoo.ls.SoService" sender="any" />
+</prescriptions>
